@@ -32,9 +32,11 @@ Cutting-Edge LSTM Predictive Modeling for Mortality Forecasting in Peritoneal an
 
 ## Introduction
 
-This project focuses on developing advanced predictive analytics for **Peritoneal and Mesenteric Cancers** by utilizing a **Long Short-Term Memory (LSTM)** neural network. The model is designed to predict two key health metrics: **Crude Mortality Rate** (number of deaths per 100,000 individuals in a given year) and **Survival Rate** (likelihood of survival as a percentage). By leveraging demographic and temporal factors such as **age, sex, ethnicity, race, and year,** the model provides robust insights into health outcomes.
+Peritoneal and mesenteric cancers are emerging as significant health concerns, with varying patterns of incidence and mortality across different demographics. Understanding these disparities is essential for developing effective treatment approaches and improving patient outcomes. This study explores current trends in peritoneal and mesenteric cancers and employs advanced predictive analytics to project future trends.
 
-Additionally, an interactive **diagnostic tool** has been deployed, allowing users to input specific demographic and temporal details to generate predictions. This tool serves as a practical application of the model, aiding researchers and healthcare professionals in assessing trends and disparities in **Peritoneal and Mesenteric Cancers** outcomes. The project emphasizes precision and temporal modeling to support informed decision-making in public health and oncology.
+A Long Short-Term Memory (LSTM) neural network model has been developed to predict two critical health metrics: Crude Mortality Rate (number of deaths per 100,000 individuals in a given year) and Survival Rate (likelihood of survival as a percentage). By leveraging a comprehensive dataset of demographic and temporal factors, including age, sex, ethnicity, race, and year, the model provides robust insights into health outcomes. These predictions aim to support healthcare providers and policymakers in enhancing decision-making, addressing disparities, and improving the overall care for patients with peritoneal and mesenteric cancers.
+
+Additionally, an interactive **diagnostic tool** has been deployed, allowing users to input specific demographic and temporal details to generate predictions. This tool serves as a practical application of the model, aiding researchers and healthcare professionals in assessing trends and disparities in **Peritoneal and Mesenteric Cancers** outcomes. 
 
 ---
 

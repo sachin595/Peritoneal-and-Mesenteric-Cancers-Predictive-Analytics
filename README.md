@@ -144,7 +144,7 @@ The project includes a Streamlit-based diagnostic tool that allows users to inpu
 
 - Access the tool here: [Peritoneal & Mesenteric Cancers Diagnostic Tool](https://peritoneal-and-mesenteric-cancers-lstm.streamlit.app/)
 - ### Example Output
-![Diagnostic Tool Screenshot](PMC_result.png)
+![Diagnostic Tool Screenshot](PMC_Result.png)
 
 ---
 ## License

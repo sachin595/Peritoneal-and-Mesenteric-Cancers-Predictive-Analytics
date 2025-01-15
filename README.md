@@ -1,4 +1,5 @@
 # Peritoneal and Mesenteric Cancers Predictive Analytics
+Cutting-Edge LSTM Predictive Modeling for Mortality Forecasting in Peritoneal and Mesenteric Cancers
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://peritoneal-and-mesenteric-cancers-lstm.streamlit.app/)
 
